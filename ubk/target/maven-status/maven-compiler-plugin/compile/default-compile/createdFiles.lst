@@ -1,0 +1,11 @@
+com\espe\ubk\controllers\UserControllers.class
+com\espe\ubk\models\entity\User.class
+com\espe\ubk\models\entity\Producto.class
+com\espe\ubk\repository\ProductoRepository.class
+com\espe\ubk\servicios\ProductoServiceImpl.class
+com\espe\ubk\repository\UserRepository.class
+com\espe\ubk\controllers\ProductoController.class
+com\espe\ubk\servicios\ProductoService.class
+com\espe\ubk\servicios\UserServiceImpl.class
+com\espe\ubk\servicios\UsersService.class
+com\espe\ubk\UbkApplication.class
